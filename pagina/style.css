@@ -156,7 +156,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(pagina/imagenes/cuantos-lenguajes-de-programacion-existen.jpg);
+    ,url(imagenes/cuantos-lenguajes-de-programacion-existen.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -215,7 +215,7 @@ header a:hover{
     }
 
     #somostecnocod .img-container{
-        background-image: url(pagina/imagenes/Programador-33-696x464.jpg);
+        background-image: url(imagenes/Programador-33-696x464.jpg);
         background-size: cover;
         background-position: center center;
         height: 500px;
@@ -224,8 +224,3 @@ header a:hover{
     
 }
 
-@media (min-width: 1400px) {
-    #Soporte{
-        background-position-x: calc(100vw - 800px);
-    }
-}
